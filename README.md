@@ -1,2 +1,2 @@
 # sukina_gazou_5tu_erande_puyo_dekiru_site
-対戦機能追加予定
+あ
