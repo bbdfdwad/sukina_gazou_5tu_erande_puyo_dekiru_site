@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+	font-family: Verdana, "Yu Gothic", sans-serif;
+	color: #ffffff;
+	background: #ff9e9e no-repeat left top;
+	overflow-x: hidden;
+}
+
+#wrap {
+	width: 1000px;
+	background: #ff9e9e no-repeat left top;
+	margin: 0 auto;
+}
+
+#contens{
+	position: relative;
+
+
+
+}
+
+#contens h1{
+font-size: 50px;
+margin-top: 18px;
+}
+
+#puyopuyo {
+	margin-top: 30px;
+	border: solid 6px #fff;
+	padding: 800px 0px;
+
+}
+
+
+#upload {
+
+
+
+
+}
+
+
+
+
